@@ -1,0 +1,71 @@
+.mt-2rem {
+    margin-top: 2rem;
+}
+
+.card-header-text {
+    font-size: 3rem;
+}
+
+tr:hover td {
+    background-color: #efcac4;
+}
+
+.my-custom-scrollbar {
+    position: relative;
+    height: 300px;
+    overflow: auto;
+}
+
+.table-wrapper-scroll-y {
+    display: block;
+}
+
+.tableFixHead {
+    overflow-y: auto;
+    height: 300px;
+}
+
+.tableFixHead th {
+    position: sticky;
+    top: 0;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th,
+td {
+    padding: 8px 16px;
+}
+
+th {
+    background: #0d3e51;
+    color: #ced4da;
+    font-size: 1rem;
+}
+
+select#select-gender {
+    border: none;
+    border-bottom: 1px solid #ced4da;
+    border-radius: unset;
+    margin-top: -11px;
+}
+
+label.mdb-main-label {
+    font-size: 0.8rem;
+}
+
+.custom-bg-blue {
+    background-color: #0d3e51d1;
+}
+
+.greyBlue {
+    color: #0d3e51d1;
+}
+
+label,
+i {
+    color: #0d3e51d1;
+}
